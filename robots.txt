@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://markpbaggett.github.io/wallace_korean_war
+
+# Sitemaps
+Sitemap: https://markpbaggett.github.io/wallace_korean_war/sitemap.xml
